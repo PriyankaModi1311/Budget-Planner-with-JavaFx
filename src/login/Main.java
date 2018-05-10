@@ -25,7 +25,7 @@ import login.security.Itemmer;
 /**
  * Main Application. This class handles navigation and user session.
  * 
- * @author Deepak Csac, Quanling Chen, Harika Badugu
+  @author Priyanka Modi
  * @version     1.0
  * @since       2018-03-05
  */

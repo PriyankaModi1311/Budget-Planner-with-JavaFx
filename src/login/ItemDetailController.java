@@ -27,7 +27,7 @@ import login.security.DBManager;
 /**
  * Profile Controller.
  * 
- * @author Deepak Csac, Quanling Chen, Harika Badugu
+ * @author Priyanka Modi
  * @version     1.0
  * @since       2018-03-05
  */

@@ -13,7 +13,7 @@ import org.junit.runners.Suite;
 
 /**
  *
- * @author melanie
+ *  @author Priyanka Modi
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({login.LoginSuite.class})

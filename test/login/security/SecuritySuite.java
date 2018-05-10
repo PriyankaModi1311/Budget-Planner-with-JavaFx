@@ -14,7 +14,7 @@ import org.junit.runners.Suite;
 
 /**
  *
- * @author melanie
+ *  @author Priyanka Modi
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({login.security.AuthenticatorTest.class, login.security.PlannerTest.class, login.security.DBManagerTest.class, login.security.ItemmerTest.class})

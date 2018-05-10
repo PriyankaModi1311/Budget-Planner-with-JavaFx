@@ -16,7 +16,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author melanie
+ *  @author Priyanka Modi
  */
 public class ItemmerTest {
     
